@@ -1,4 +1,4 @@
-Overview of Python  : 
+<h1>Overview of Python  : </h1>
 
 Python is a versatile and widely-used programming language, known for its simplicity and readability. This tutorial aims to provide a comprehensive introduction to Python, covering basic concepts to more advanced topics. Below is a structured outline based on various resources that can help beginners learn Python effectively.
 
@@ -21,21 +21,21 @@ Python Basics
   Defining functions, understanding parameters and return values.
   Concepts of scope (local vs global variables).<br>
 6 Data Structures
-  In-depth look at lists, tuples, dictionaries, and sets.
-7 Operations and methods associated with these data structures.
+  In-depth look at lists, tuples, dictionaries, and sets.<br>
+7 Operations and methods associated with these data structures.<br>
 8 Modules and Packages
-  How to import and use modules.
-9 Understanding the Python Package Index (PyPI) and using pip for package management.
-10 File Handling
-11 Reading from and writing to files.
+  How to import and use modules.<br>
+9 Understanding the Python Package Index (PyPI) and using pip for package management.<br>
+10 File Handling<br>
+11 Reading from and writing to files.<br>
    Understanding file modes (read, write, append).
 12 Exception Handling
-   Using try-except blocks to handle errors gracefully.
+   Using try-except blocks to handle errors gracefully.<br>
 13 Object-Oriented Programming (OOP)
-   Basic principles of OOP: classes, objects, inheritance, encapsulation.
+   Basic principles of OOP: classes, objects, inheritance, encapsulation.<br>
 14 Advanced Topics
-   Introduction to concepts like decorators, generators, and lambda functions.
-15 Overview of virtual environments for project management.
-16 Projects and Challenges
+   Introduction to concepts like decorators, generators, and lambda functions.<br>
+15 Overview of virtual environments for project management.<br>
+16 Projects and Challenges<br>
 Mini-projects to apply learned concepts.
 Final project that integrates various elements of the course.
