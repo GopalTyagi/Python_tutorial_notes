@@ -12,14 +12,14 @@ Key Topics Covered
 Python Basics
 
 1 Data Types: Understanding numbers, strings, lists, tuples, sets, and dictionaries. <br>
-2 Variables: Declaring and using variables effectively.
-3 Operators: Arithmetic, comparison, logical operators.
+2 Variables: Declaring and using variables effectively.<br>
+3 Operators: Arithmetic, comparison, logical operators.<br>
 4 Control Flow
   Conditional Statements: Using if, elif, and else.
-  Loops: Implementing for and while loops for iteration.
+  Loops: Implementing for and while loops for iteration.<br>
 5 Functions
   Defining functions, understanding parameters and return values.
-  Concepts of scope (local vs global variables).
+  Concepts of scope (local vs global variables).<br>
 6 Data Structures
   In-depth look at lists, tuples, dictionaries, and sets.
 7 Operations and methods associated with these data structures.
