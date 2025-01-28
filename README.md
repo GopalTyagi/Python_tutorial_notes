@@ -11,7 +11,7 @@ Key Topics Covered
 
 Python Basics
 
-1 Data Types: Understanding numbers, strings, lists, tuples, sets, and dictionaries.
+1 Data Types: Understanding numbers, strings, lists, tuples, sets, and dictionaries. <br>
 2 Variables: Declaring and using variables effectively.
 3 Operators: Arithmetic, comparison, logical operators.
 4 Control Flow
